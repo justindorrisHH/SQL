@@ -1,0 +1,10 @@
+to get into mysql "as root"
+-[mysql -u root -p]-
+to show databases
+-[show databases;]-
+creating a database
+-[create database ______;]-
+create a user with super power
+grant all privileges on drupal.* TO "username"@"localhost" IDENTIFIED BY "password";
+
+
