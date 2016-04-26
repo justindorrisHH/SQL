@@ -1,0 +1,12 @@
+CREATE TABLE shopofgames (id INTEGER PRIMARY KEY, name TEXT, playstation TEXT, xbox TEXT, pc TEXT, cost INTEGER);
+INSERT INTO shopofgames VALUES (1, "skyrim", "y", "y", "y", 60);
+INSERT INTO shopofgames VALUES (2, "hell divers", "y", "n", "n", 15);
+INSERT INTO shopofgames VALUES (3, "finnal fantasy 14", "y", "n", "y", 50);
+INSERT INTO shopofgames VALUES (4, "metal gear solid 5", "y", "y", "y", 60);
+INSERT INTO shopofgames VALUES (5, "tales of xillia", "y", "n", "n", 30);
+INSERT INTO shopofgames VALUES (6, "fallout 4", "y", "y", "y", 60);
+INSERT INTO shopofgames VALUES (7, "black ops 3", "y", "y", "y", 60);
+INSERT INTO shopofgames VALUES (8, "mincraft", "y", "y", "y", 25);
+INSERT INTO shopofgames VALUES (9, "the wolf among us", "y", "y", "y", 10);
+INSERT INTO shopofgames VALUES (10, "dragon's dogma", "y", "y", "y", 35);
+INSERT INTO shopofgames VALUES (11, "kingdom hearts 2", "y", "n", "n", 40);
